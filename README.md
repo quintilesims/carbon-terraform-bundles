@@ -53,6 +53,11 @@ Once you've created a new bundle, move it into the `bundles/` directory and docu
 
 (Most recent bundle at top.)
 
+- [0.11.8-bundle2019111123](https://github.com/quintilesims/carbon-terraform-bundles/raw/master/bundles/terraform_0.11.8-bundle2019111123_linux_amd64.zip)
+  - SHA256 Checksum: `4beb36fde710c8147807241bccebdf782f75a4418e76a56fa8557f625ea9234c`
+  - Terraform v0.11.8
+  - Layer0 v0.11.1
+
 - [0.11.8-bundle2019091222](https://github.com/quintilesims/carbon-terraform-bundles/raw/master/bundles/terraform_0.11.8-bundle2019091222_linux_amd64.zip)
   - SHA256 Checksum: `4130f957db14a5768795e06c3cd073c09615d97aded7587deddec1d707d78167`
   - Terraform v0.11.8

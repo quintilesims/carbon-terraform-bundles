@@ -10,5 +10,5 @@ providers {
   # plugins directory, and package it with the bundle archive. Plugin must have
   # a name of the form: terraform-provider-*, and must be build with the operating
   # system and architecture that terraform enterprise is running, e.g. linux and amd64
-  layer0 = ["0.11.0"]
+  layer0 = ["0.11.1"]
 }
